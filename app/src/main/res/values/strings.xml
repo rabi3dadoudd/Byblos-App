@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Byblos</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="manageServicesBtn">Manage Services</string>
+    <string name="manageServicesTxt">Manage Services</string>
+    <string name="deleteService">Delete Service</string>
+    <string name="backButton">Back</string>
+    <string name="addService">Add Service</string>
+    <string name="createCarRentalServiceBtnText">Car Rental Service</string>
+    <string name="createTruckRentalServiceBtnText">Truck Rental Service</string>
+    <string name="createMovingAssitanceServiceBtnText">Moving Assistance Service</string>
+    <string name="choose_new_service_textText">Which type of service would you like to add?</string>
+    <string name="AddServiceBtn">Add Service</string>
+
+</resources>
